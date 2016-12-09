@@ -250,7 +250,7 @@ nav li a:hover, nav li a:focus, nav li a:active{
 
 .conejitos {
     background-image: url(../img/bunny-head.png);
-    background-size: cover;
+    background-size: contain;
     height: 100px;
 }
 
